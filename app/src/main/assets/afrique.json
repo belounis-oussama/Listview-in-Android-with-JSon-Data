@@ -1,0 +1,149 @@
+{
+  "Pays": [
+    {
+      "Nom" : "Sénégal",
+      "Capitale" : "Dakar",
+      "Superficie" : "196 722 km2",
+      "Population" : 13567338,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal",
+      "image"      : "http://www.carte-du-monde.net/cartes/senegal.jpg"
+    },
+    {
+      "Nom" : "Cameroun",
+      "Capitale" : "Yaoundé",
+      "Superficie" : "475 442 km2",
+      "Population" : 20386799,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Cameroun",
+      "image"      : "http://www.carte-du-monde.net/cartes/cameroun.jpg"
+
+    },
+    {
+      "Nom" : "Niger",
+      "Capitale" : "Niamey",
+      "Superficie" : "1 267 000 km2",
+      "Population" : 17129076,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Niger",
+      "image" : "http://www.carte-du-monde.net/cartes/niger.jpg"
+    },
+
+    {
+      "Nom" : "Tchad",
+      "Capitale" : "Ndjamena",
+      "Superficie" : "1 284 000 km2",
+      "Population" :  12825000,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Tchad",
+      "image" : "http://www.carte-du-monde.net/cartes/tchad.jpg"
+    },
+    {
+      "Nom" : "Burkina Faso",
+      "Capitale" : "Ouagadougou",
+      "Superficie" : "274 000 km2",
+      "Population" :  17322796,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Burkina_Faso",
+      "image" : "http://www.carte-du-monde.net/cartes/cameroun.jpg"
+    },
+    {
+      "Nom" : "Burundi",
+      "Capitale" : "Bujumbura",
+      "Superficie" : "27 834 km2",
+      "Population" : 10163000,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Burundi",
+      "image" : "http://www.carte-du-monde.net/cartes/burundi.jpg"
+    },
+    {
+      "Nom" : "Centrafrique",
+      "Capitale" : "Bangui",
+      "Superficie" : "622 984 km2",
+      "Population" : 4616000,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/R%C3%A9publique_centrafricaine",
+      "image" : "http://www.carte-du-monde.net/cartes/centrafrique.jpg"
+    },
+    {
+      "Nom" : "Madagascar",
+      "Capitale" : "Antananarivo",
+      "Superficie" : "587 041 km2",
+      "Population" : 21263403,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Madagascar",
+      "image" : "http://www.carte-du-monde.net/cartes/madagascar.jpg"
+    },
+    {
+      "Nom" : "Comores",
+      "Capitale" : "Moroni",
+      "Superficie" : "2 235 km2",
+      "Population" : 743798,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Comores_(pays)",
+      "image" : "http://www.carte-du-monde.net/cartes/comores.jpg"
+    },
+
+    {
+      "Nom" : "Guinée",
+      "Capitale" : "Conakry",
+      "Superficie" : "245 857 km2",
+      "Population" :  10824200,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Guinee",
+      "image" : "http://www.carte-du-monde.net/cartes/guinee.jpg"
+    },
+
+    {
+      "Nom" : "Mali",
+      "Capitale" : "Bamako",
+      "Superficie" : "1 240 190 km2",
+      "Population" : 15302000,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Mali",
+      "image" : "http://www.carte-du-monde.net/cartes/mali.jpg"
+    },
+    {
+      "Nom" : "Mauritanie",
+      "Capitale" : "Nouakchott",
+      "Superficie" : "1 025 520 km2",
+      "Population" : 3461041,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Mauritanie",
+      "image" : "http://www.carte-du-monde.net/cartes/mauritanie.jpg"
+    },
+    {
+      "Nom" : "Togo",
+      "Capitale" : "Lomé",
+      "Superficie" : "56 785 km2",
+      "Population" : 6191155,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Togo",
+      "image" : "http://www.carte-du-monde.net/cartes/mali.jpg"
+    },
+    {
+      "Nom" : "Djibouti",
+      "Capitale" : "Djibouti",
+      "Superficie" : "23 200 km2",
+      "Population" : 873000,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Djibouti",
+      "image" : "http://www.carte-du-monde.net/cartes/djibouti.jpg"
+    },
+    {
+      "Nom" : "Gambie",
+      "Capitale" : "Banjul",
+      "Superficie" : "11 295 km2",
+      "Population" : 1849000,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Gambie",
+      "image" : "http://www.carte-du-monde.net/cartes/gambie.gif"
+    },
+
+    {
+      "Nom" : "Gabon",
+      "Capitale" : "Libreville",
+      "Superficie" : "267 668 km2",
+      "Population" :  1672000,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Gabon",
+      "image" : "http://www.carte-du-monde.net/cartes/gabon.jpg"
+    },
+
+
+    {
+      "Nom" : "Libéria",
+      "Capitale" : "Monrovia",
+      "Superficie" : "111 369 km2",
+      "Population" :  4294000,
+      "wikiUrl"    : "https://fr.wikipedia.org/wiki/Liberia",
+      "image" : "http://www.carte-du-monde.net/cartes/liberia.gif"
+    }
+
+  ]
+
+}
